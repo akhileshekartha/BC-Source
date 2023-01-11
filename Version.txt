@@ -1,0 +1,6 @@
+
+Version 21.3.51409.51464 nz
+
+Get-BCArtifactUrl -type OnPrem -country "NZ" -select Latest
+
+https://bcartifacts.azureedge.net/onprem/21.3.51409.51464/nz
