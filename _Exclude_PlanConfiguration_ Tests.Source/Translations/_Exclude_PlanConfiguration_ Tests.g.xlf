@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="_Exclude_PlanConfiguration_ Tests">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 1004599133 - NamedType 3851111368" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Information Worker</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Azure AD Plan Module Test - NamedType InformationWorkerUserGroupTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1004599133 - NamedType 3468023376" size-unit="char" translate="yes" xml:space="preserve">
+          <source>One or more users are not assigned to the same Business Central license. For example, we found that users %1 and %2 are assigned to different licenses, but there may be other mismatches. In your Microsoft 365 admin center, make sure that all users are assigned to the same Business Central license, either Basic, Essential, or Premium.  Afterward, update Business Central by opening the Users page and using the 'Update Users from Office 365' action.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = %2 = Authnetication email.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Azure AD Plan Module Test - NamedType MixedPlansMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1004599133 - NamedType 1383399196" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All users must be assigned to the same license, either Basic, Essential, or Premium. %1 and %2 are assigned to different licenses, for example, but there may be other mismatches. Your system administrator or Microsoft partner can verify license assignments in your Microsoft 365 admin portal.\\We will sign you out when you choose the OK button.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Azure AD Plan Module Test - NamedType MixedPlansNonAdminErr</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
